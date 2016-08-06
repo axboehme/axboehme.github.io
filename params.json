@@ -1,6 +1,6 @@
 {
   "name": "Axboehme.GitHub.io",
   "tagline": "",
-  "body": "### Willkommen auf meinem Blog.\r\nHier schreibe ich über ganz verschiedene Themen, alle aber in Bezug auf die System- und/oder Netzwerkadministration. Mein aktueller Fokus liegt dabei auf:\r\n\r\n- Virtualisierung (KVM, Proxmox, LXC, Docker)\r\n- Konfigurationsmanagement (Ansible)\r\n- Monitoring (Icinga2)\r\n- WLAN (Planung, Errichtung, Spektralanalyse,)\r\n \r\n\r\n",
+  "body": "### Willkommen auf meinem Blog.\r\nHier schreibe ich über ganz verschiedene Themen, alle aber in Bezug auf die System- und/oder Netzwerkadministration. Mein aktueller Fokus liegt dabei auf:\r\n\r\n- Virtualisierung (KVM, Proxmox, LXC, Docker)\r\n- Konfigurationsmanagement (Ansible)\r\n- Monitoring (Icinga2)\r\n- WLAN (Planung, Errichtung, Spektralanalyse,)\r\n \r\n(/_posts/2016-08-06-der-titel.markdown)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
