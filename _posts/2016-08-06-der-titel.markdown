@@ -1,0 +1,6 @@
+---
+published: true
+title: Der Titel
+layout: post
+---
+Eine erste Seite
